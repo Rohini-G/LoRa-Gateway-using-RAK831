@@ -36,7 +36,7 @@ After that just fill up the details as prompted.
 
 Now the gateway has to be registered to TTN and for that get into TTN Console. If you don’t have an account you will be prompted to create one.  Click on Gateways and select add a new gateway.
 
-![alt text](https://drive.google.com/open?id=1ZuEzvL3P1prXZDIfSqLqCjdTCWSzTAxj)
+![alt text](https://github.com/vyshakpadinjarote/LoRa-Gateway-using-RAK831/blob/master/Images/Screenshot%20(53).png)
 
 You will be prompted to fill in some details so fill it up. The important thing is to fill the Gateway ID (Paste the copied device EUI)and select the legacy packet forwarder.
 
