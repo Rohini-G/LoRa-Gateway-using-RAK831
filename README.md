@@ -1,5 +1,7 @@
 # LoRa-Gateway-using-RAK831
 
+![alt-text](https://github.com/vyshakpadinjarote/LoRa-Gateway-using-RAK831/blob/master/Images/gateway.png)
+
 Recently I started working with Lora, specifically LoraWAN. But the area I live in has no gateway around so I had to buy my own. This video is all about setting up a cheap Lora Gateway using the RAK831 Lora Concentrator and Raspberry Pi. The gateway is configured with The Things Network.
 
 ## Procedures
