@@ -12,6 +12,8 @@ The first thing we need to do is assemble the Raspberry Pi and the gateway if it
 
 After that, we need to prepare the SD card by flashing the Raspbian Lite. You can download the latest version of the OS from [here](https://www.raspberrypi.org/downloads/raspbian/). For flashing the OS you can use [Etcher](https://www.balena.io/etcher/). After OS get flashed to the SD card (I have used 16 GB one) don’t forget to create a file named SSH (without any extension) to the SD card, which will enable SSH connection to the Pi.
 
+#### For more booting help check-out [this](https://github.com/vyshakpadinjarote/Booting-My-First-Raspberry-Pi).
+
 After booting the Pi with the SD card and having an SSH connection, next is to install the required packages for the gateway,
 
 First, we need to update the pi, followed by installation of git. After that SPI has to be enabled from raspi-config.
