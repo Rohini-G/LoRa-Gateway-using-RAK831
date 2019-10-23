@@ -49,4 +49,13 @@ You will be prompted to fill in some details so fill it up. The important thing 
 
 ![alt text](https://github.com/vyshakpadinjarote/LoRa-Gateway-using-RAK831/blob/master/Images/Screenshot%20(54).png)
 
-That’s it, your gateway will be shown as connected and ready to go.
+### Details for India:
+Please select the I'm using packet forwarder option.
+Device ID : Give your EUI that you have recieved while previous step.
+Description : Give anything related to your gateway.
+Frequency : India 865-867MHz
+Router : ttn-router-asia-se
+Location : If you are using any gps just leave it or you can fill it.
+Antenna Placement : Indoor
+
+## That’s it, your gateway will be shown as connected and ready to go.
