@@ -24,7 +24,10 @@ After git is installed use the command below to clone the spi branch of the ttn-
 git clone -b spi https://github.com/ttn-zh/ic880a-gateway.git
 ```
 
-Now navigate to the cloned folder and run the install.sh script to proceed with the installations.
+Now navigate to the cloned folder ```cd ~/ic880a-gateway``` and edit the start.sh by replacing the pin from 25 to 17. 
+![alt text](https://github.com/vyshakpadinjarote/LoRa-Gateway-using-RAK831/blob/master/Images/Screenshot%20(55).png)
+
+For that use the command ```sudo nano start.sh``` and now run the install.sh script to proceed with the installations.
 
 ```
 sudo ./install.sh
