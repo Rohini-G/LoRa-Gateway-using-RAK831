@@ -8,6 +8,8 @@ Recently I started working with Lora, specifically LoraWAN. But the area I live 
 
 The first thing we need to do is assemble the Raspberry Pi and the gateway if it is not already assembled. It is pretty much straightforward.
 
+![alt-text](https://github.com/vyshakpadinjarote/LoRa-Gateway-using-RAK831/blob/master/Images/rak831-gateway.png)
+
 After that, we need to prepare the SD card by flashing the Raspbian Lite. You can download the latest version of the OS from [here](https://www.raspberrypi.org/downloads/raspbian/). For flashing the OS you can use [Etcher](https://www.balena.io/etcher/). After OS get flashed to the SD card (I have used 16 GB one) don’t forget to create a file named SSH (without any extension) to the SD card, which will enable SSH connection to the Pi.
 
 After booting the Pi with the SD card and having an SSH connection, next is to install the required packages for the gateway,
