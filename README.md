@@ -58,6 +58,6 @@ Description : Give anything related to your gateway.
 Frequency : India 865-867MHz
 Router : ttn-router-asia-se
 Location : If you are using any gps just leave it or you can fill it.
-Antenna Placement : Indoor
+Antenna Placement : Indoor.
 
 ## That’s it, your gateway will be shown as connected and ready to go.
